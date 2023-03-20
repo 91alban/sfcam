@@ -1,4 +1,4 @@
-# sfcam
+# sfcam - Security Flutter Camera
 
 A new Flutter project.
 
